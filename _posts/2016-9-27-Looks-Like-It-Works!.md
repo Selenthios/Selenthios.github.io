@@ -1,6 +1,6 @@
 ---
 layout: post
-title: And So It Begins
+title: First Post! Here We Go!
 ---
 
 
