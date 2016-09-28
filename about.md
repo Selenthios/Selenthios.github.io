@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Want to learn more or have some work that needs to be done? 
 
-### More Information
+### Contact me!
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[contact@karstenspencer.com](mailto:contact@karstenspencer.com)
