@@ -1,4 +1,10 @@
-#We are on Our Way!
+---
+layout: post
+title: And So It Begins
+---
+
+
+# We are on Our Way!
 
 Well check that out! Looks like I got it to work. 
 
