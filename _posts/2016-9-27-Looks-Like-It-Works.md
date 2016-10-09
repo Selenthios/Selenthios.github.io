@@ -4,8 +4,6 @@ title: First Post! Here We Go!
 ---
 
 
-# We are on Our Way!
-
 Well check that out! Looks like I got it to work. 
 
 
