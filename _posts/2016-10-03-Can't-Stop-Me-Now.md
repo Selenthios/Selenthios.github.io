@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Let me just log onto my favorite website here...www.karst...Oh hey it got an update!"
+title: "Learning A Lot of Things!"
 ---
 
-
-# Learning... A lot of things!
 
 So I was able to do some pretty neat updates and Javascript tricks. I have been religiously doing the Enki workouts 
 and reading Eloquent JS. I can't tell you how excited I am about all of this. Coding every day and figuring out more and
