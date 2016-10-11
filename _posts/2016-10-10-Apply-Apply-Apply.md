@@ -6,7 +6,7 @@ title: "Apply, Apply, Apply"
 
 I have been constantly applying for positions I feel I am fit for and still very excited about all this.
 
-This week I dipped into Wordpress and have been working on a coupel personal websites. I also ordered some pretty rad business cards
+This week I dipped into Wordpress and have been working on a couple personal websites. I also ordered some pretty rad business cards
 for freelance stuff and hope to be spreading them around when they arrive.
 
 Whether it be applying for jobs, applying yourself to relevant stuff, or applying what you have learned. Constantly staying busy is 
